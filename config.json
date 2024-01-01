@@ -1,0 +1,11 @@
+{
+    "vm": {
+        "name": "$SERVERNAME.example.com",
+        "cpu": 2,
+        "ram": "$RAM",
+        "network": {
+            "vlan": 5000,
+            "ip": "dhcp"
+        }
+    }
+}
